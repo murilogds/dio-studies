@@ -1,0 +1,16 @@
+/home/murilogomes/projetos/dio-studies/dotnet/ConsoleApplication/bin/Debug/net5.0/ConsoleApplication
+/home/murilogomes/projetos/dio-studies/dotnet/ConsoleApplication/bin/Debug/net5.0/ConsoleApplication.deps.json
+/home/murilogomes/projetos/dio-studies/dotnet/ConsoleApplication/bin/Debug/net5.0/ConsoleApplication.runtimeconfig.json
+/home/murilogomes/projetos/dio-studies/dotnet/ConsoleApplication/bin/Debug/net5.0/ConsoleApplication.runtimeconfig.dev.json
+/home/murilogomes/projetos/dio-studies/dotnet/ConsoleApplication/bin/Debug/net5.0/ConsoleApplication.dll
+/home/murilogomes/projetos/dio-studies/dotnet/ConsoleApplication/bin/Debug/net5.0/ref/ConsoleApplication.dll
+/home/murilogomes/projetos/dio-studies/dotnet/ConsoleApplication/bin/Debug/net5.0/ConsoleApplication.pdb
+/home/murilogomes/projetos/dio-studies/dotnet/ConsoleApplication/obj/Debug/net5.0/ConsoleApplication.csproj.AssemblyReference.cache
+/home/murilogomes/projetos/dio-studies/dotnet/ConsoleApplication/obj/Debug/net5.0/ConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+/home/murilogomes/projetos/dio-studies/dotnet/ConsoleApplication/obj/Debug/net5.0/ConsoleApplication.AssemblyInfoInputs.cache
+/home/murilogomes/projetos/dio-studies/dotnet/ConsoleApplication/obj/Debug/net5.0/ConsoleApplication.AssemblyInfo.cs
+/home/murilogomes/projetos/dio-studies/dotnet/ConsoleApplication/obj/Debug/net5.0/ConsoleApplication.csproj.CoreCompileInputs.cache
+/home/murilogomes/projetos/dio-studies/dotnet/ConsoleApplication/obj/Debug/net5.0/ConsoleApplication.dll
+/home/murilogomes/projetos/dio-studies/dotnet/ConsoleApplication/obj/Debug/net5.0/ref/ConsoleApplication.dll
+/home/murilogomes/projetos/dio-studies/dotnet/ConsoleApplication/obj/Debug/net5.0/ConsoleApplication.pdb
+/home/murilogomes/projetos/dio-studies/dotnet/ConsoleApplication/obj/Debug/net5.0/ConsoleApplication.genruntimeconfig.cache
